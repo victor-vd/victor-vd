@@ -14,7 +14,6 @@
 - I'm 18 and live in Salvador, Bahia
 </br>
 </br>
-</br>
 ## My social accounts:
 <div>
     <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
