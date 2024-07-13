@@ -1,14 +1,20 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-<div style="font-family: 'Space Mono', monospace; color: #ed8b00">
+<div style="font-family: 'Space Mono', monospace;">
+
+<div style="margin-left: 16px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Back-End+Developer&font=Space+Mono&color=ed8b00)](https://git.io/typing-svg)
+
+</div>
 
 - Currently foccusing in back-end development
 - Working on a web application and a drink machine
 - I'm 18 and live in Salvador, Bahia
-
+</br>
+</br>
+</br>
 ## My social accounts:
 <div>
     <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
