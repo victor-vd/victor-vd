@@ -26,7 +26,7 @@
 My GitHub stats:
 </h2>
 
-![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)
+![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)
 </br>
 
 <h2>
