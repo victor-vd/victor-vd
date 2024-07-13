@@ -58,7 +58,7 @@ IDEs that I use the most:
     <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 </br>
-
+<!--
 <h2>
 Programs that I use for design:
 </h2>
@@ -68,7 +68,7 @@ Programs that I use for design:
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 </br>
-
+-->
 
 <h2>
 Some of the projects that I'm working on:
