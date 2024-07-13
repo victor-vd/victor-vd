@@ -1,24 +1,11 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-<div style="font-family: 'Space Mono', monospace;">
+<div>
 
-<div style="margin-left: 16px">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Back-End+Developer&font=Space+Mono&color=ed8b00&size=32&height=44&width=650)](https://git.io/typing-svg)
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Back-End+Developer&font=Space+Mono&color=ffa600&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
-<li>
-Currently foccusing in back-end development
-</li>
-<li>
-Working on a web application and a drink machine
-</li>
-<li>
-I'm 18 and live in Salvador, Bahia
-</li>
+<li>Currently foccusing in back-end development</li>
+<li>Working on a web application and a drink machine</li>
+<li>I'm 18 and live in Salvador, Bahia</li>
 </div>
 
 </br>
@@ -39,18 +26,18 @@ I'm 18 and live in Salvador, Bahia
 My GitHub stats:
 </h2>
 
-![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)
+![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)
 </br>
 
 <h2>
 Languages that I use:
 </h2>
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="display: flex">
     <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="display: flex">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -60,12 +47,12 @@ Languages that I use:
 <h2>
 IDEs that I use the most:
 </h2>
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="display: flex">
     <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
     <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
     <img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="display: flex">
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
     <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
@@ -75,7 +62,7 @@ IDEs that I use the most:
 <h2>
 Programs that I use for design:
 </h2>
-<div style="display: inline_block; margin: 0px; padding: 0px; display: flex">
+<div style="display: flex">
     <img align="center" alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
     <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
@@ -87,10 +74,11 @@ Programs that I use for design:
 Some of the projects that I'm working on:
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
 </br>
 
 <h2>
