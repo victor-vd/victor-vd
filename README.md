@@ -74,11 +74,11 @@ Programs that I use for design:
 Some of the projects that I'm working on:
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&text_color=ffa600&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
 </br>
 
 <h2>
