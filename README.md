@@ -23,7 +23,7 @@ I'm 18 and live in Salvador, Bahia
 </br>
 
 ## My social accounts:
-<div>
+<div style="margin=0">
     <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/26356605/victor-dantas"><img align="center" alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     <a href="mailto:victorsdd80@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
