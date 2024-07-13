@@ -1,14 +1,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-<div style="font-family: 'Space Mono', monospace; color: #ed8b00">
+<div style="font-family: 'Space Mono', monospace;">
 
 <div style="margin-left: 16px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Back-End+Developer&font=Space+Mono&color=ed8b00&size=32&height=44&width=650)](https://git.io/typing-svg)
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 
 </div>
-<div style="color: #ffc700; font-weight: ;font-size: 16px">
+<div style="font-weight: ;font-size: 16px">
 <li>
 Currently foccusing in back-end development
 </li>
@@ -38,7 +39,7 @@ I'm 18 and live in Salvador, Bahia
 My GitHub stats:
 </h2>
 
-![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&text_color=ffc700&title_color=ffc700&icon_color=7438b7)
+![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)
 </br>
 
 <h2>
@@ -86,10 +87,10 @@ Programs that I use for design:
 Some of the projects that I'm working on:
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&text_color=ffc700&title_color=ffc700&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&text_color=ffc700&title_color=ffc700&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&text_color=ffc700&title_color=ffc700&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&text_color=ffc700&title_color=ffc700&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&text_color=ffbb00&title_color=ffbb00&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
 </br>
 
 <h2>
