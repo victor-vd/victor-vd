@@ -13,7 +13,7 @@
 - Working on a web application and a drink machine
 - I'm 18 and live in Salvador, Bahia
 </br>
-</br>
+
 ## My social accounts:
 <div>
     <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
@@ -22,9 +22,11 @@
     <a href="https://www.instagram.com/victor_vsdd/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/victor-dias-dantas"><img align="center" alt=LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+</br>
 
 ## My GitHub stats:
 ![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&text_color=ed8b00&title_color=ed8b00&icon_color=7438b7)
+</br>
 
 ## Languages that I use:
 <div>
@@ -35,6 +37,7 @@
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+</br>
 
 ## IDEs that I use the most:
 <div>
@@ -45,6 +48,7 @@
     <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
     <img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
+</br>
 
 ## Programs that I use for design:
 <div style="display: inline_block">
@@ -52,6 +56,7 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
+</br>
 
 
 ## Some of the projects that I'm working on:
@@ -60,6 +65,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&text_color=ed8b00&title_color=ed8b00&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&text_color=ed8b00&title_color=ed8b00&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Simple-Form&bg_color=00000000&text_color=ed8b00&title_color=ed8b00&icon_color=7438b7)](https://github.com/victor-vd/Simple-Form)
+</br>
 
 ## Music!!!
 
