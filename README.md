@@ -1,6 +1,6 @@
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Back-End+Developer&font=Space+Mono&color=ffa600&size=32&height=44&width=650)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Developer&font=Space+Mono&color=ffa600&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
 <li>Currently foccusing in web development</li>
