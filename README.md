@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Back-End+Developer&font=Space+Mono&color=ffa600&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
-<li>Currently foccusing in back-end development</li>
+<li>Currently foccusing in web development</li>
 <li>Working on a web application and a drink machine</li>
 <li>I'm 18 and live in Salvador, Bahia</li>
 </div>
