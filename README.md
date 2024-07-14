@@ -4,7 +4,7 @@
 </div>
 <div style="font-weight: ;font-size: 16px">
 <li>Currently foccusing in web development</li>
-<li>Working on a web application and a drink machine</li>
+<li>Working on two web applications and a drink machine</li>
 <li>I'm 18 and live in Salvador, Bahia</li>
 </div>
 
