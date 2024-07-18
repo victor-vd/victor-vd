@@ -21,13 +21,13 @@
     <a href="https://www.linkedin.com/in/victor-dias-dantas"><img align="center" alt=LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </br>
-
+<!--
 <h2>
 My GitHub stats:
 </h2>
-
 ![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)
 </br>
+-->
 
 <h2>
 Languages that I use:
