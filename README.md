@@ -14,6 +14,7 @@
 <div style="margin: 0px; padding: 0px; display: flex">
     <a href="https://www.reddit.com/user/victor_vd_/"><img align="center" alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/26356605/victor-dantas"><img align="center" alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/p269050pbp0f2urpcqvsm24i1"><img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 <div style="margin: 0px; padding: 0px; display: flex">
     <a href="mailto:victorsdd80@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -81,7 +82,6 @@ Some of the projects that I'm working on:
 Music!!!
 </h2>
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/p269050pbp0f2urpcqvsm24i1)
 <!--
 **victorVDdantas/victorVDdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
