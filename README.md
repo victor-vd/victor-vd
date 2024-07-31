@@ -23,13 +23,6 @@
     <a href="https://www.linkedin.com/in/victor-dias-dantas"><img align="center" alt=LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </br>
-<!--
-<h2>
-My GitHub stats:
-</h2>
-![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)
-</br>
--->
 
 <h2>
 Languages that I use:
@@ -41,9 +34,10 @@ Languages that I use:
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
+    ">
 </div>
 </br>
-
 <h2>
 IDEs that I use the most:
 </h2>
@@ -54,6 +48,7 @@ IDEs that I use the most:
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
     <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img align="center" alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
 </br>
 <!--
@@ -66,15 +61,23 @@ Programs that I use for design:
     <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 </br>
+.
+[![]()]()
 -->
+
+<h2>
+My stats:
+</h2>
+
+![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vd&layout=donut&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)
+[![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd)
 
 <h2>
 Some of the projects that I'm working on:
 </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Password-Generator&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Password-Generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Roller&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Roller)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Interface-de-irrigacao&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Interface-de-irrigacao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Test&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=EveryString&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/EveryString)
 </br>
@@ -85,18 +88,4 @@ Music!!!
 
 [![Last.fm](https://badges.lastfm.workers.dev/last-played?user=ohtomu)](https://www.last.fm/user/ohtomu)
 
-<!--
-**victorVDdantas/victorVDdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </div>
