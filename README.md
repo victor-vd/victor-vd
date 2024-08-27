@@ -3,9 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Developer&font=Space+Mono&color=ffa600&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
+<li>I'm 18 and live in Salvador, Bahia</li>
+<li>On me free time I read fantasy books, draw and play games</li>
+<li>I'm a enthusiast in software, hardware and automation</li>
+<li>Love all fields of IT, but software engineering caught me up</li>
 <li>Currently foccusing in web development</li>
 <li>Working on two web applications and a drink machine</li>
-<li>I'm 18 and live in Salvador, Bahia</li>
 </div>
 
 </br>
