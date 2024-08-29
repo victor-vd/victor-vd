@@ -15,7 +15,7 @@
 
 ## My social accounts:
 
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="margin: 0px; padding: 0px; display: flex;">
     <a href="https://open.spotify.com/user/p269050pbp0f2urpcqvsm24i1"><img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://www.instagram.com/victor_vsdd/"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/victor-dias-dantas"><img align="center" alt=LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -25,7 +25,7 @@
 <h2>
 Languages that I use:
 </h2>
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="margin: 0px; padding: 0px; display: flex;">
     <!--<img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">-->
     <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -37,11 +37,8 @@ Languages that I use:
 <h2>
 IDEs that I use the most:
 </h2>
-<div style="display: flex">
-</div>
-</br>
 
-<div style="margin: 0px; padding: 0px; display: flex">
+<div style="margin: 0px; padding: 0px; display: flex;">
     <!--<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">-->
     <!--<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">-->
     <!--<img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">-->
@@ -69,18 +66,27 @@ Programs that I use for design:
 My stats:
 </h2>
 
-![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vd&layout=donut&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)
-[![Victor Dantas's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd)
+<a href="https://github.com/victor-vd">
+<center>
+    <img align="center" style="height: 190px;" alt="Victor Dantas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vd&layout=compact&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7">
+    <img align="center" style="height: 190px;" alt="Victor Dantas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=victor-vd&show_icons=true&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7">
+</center>
+</a>
+</center>
 
 <h2>
 Some of the projects that I'm working on:
 </h2>
+
+<center>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Interface-de-irrigacao&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Interface-de-irrigacao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Test&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=EveryString&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/EveryString)
 </br>
+
+</center>
 
 <h2>
 Music!!!
@@ -89,4 +95,3 @@ Music!!!
 [![Last.fm](https://badges.lastfm.workers.dev/last-played?user=ohtomu)](https://www.last.fm/user/ohtomu)
 
 </div>
-
