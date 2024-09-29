@@ -81,9 +81,9 @@ Some of the projects that I'm working on:
 <center>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Interface-de-irrigacao&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Interface-de-irrigacao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Dice-Test&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Dice-Test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=.NET-Exercises&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/.NET-Exercises)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=EveryString&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/EveryString)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Mangabas-Kitchen&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Mangabas-Kitchen)
 </br>
 
 </center>
