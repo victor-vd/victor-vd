@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Dantas;Brazilian+Developer&font=Space+Mono&color=ffa600&size=32&height=44&width=650)](https://git.io/typing-svg)
 </div>
 <div style="font-weight: ;font-size: 16px">
-<li>I'm 18 and live in Salvador, Bahia</li>
+<li>I'm 19 and live in Salvador, Bahia</li>
 <li>On me free time I read fantasy books, draw and play games</li>
-<li>I'm a enthusiast in software, hardware and automation</li>
+<li>I'm a enthusiast in software, gaming, hardware and automation</li>
 <li>Love all fields of IT, but software engineering caught me up</li>
-<li>Currently foccusing in web development</li>
-<li>Working on two web applications and a drink machine</li>
+<li>Currently foccusing in web and game development</li>
+<li>Working on a lastfm api based web app and a desktop game</li>
 </div>
 
 </br>
@@ -34,18 +34,31 @@ Languages that I use:
     <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </div>
 </br>
+
+<h2>
+Tools that I use:
+</h2>
+<div style="margin: 0px; padding: 0px; display: flex;">
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img align="center" alt="Unity" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
+    <img align="center" alt="Unity" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="Unity" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</div>
+</br>
+
 <h2>
 IDEs that I use the most:
 </h2>
 
 <div style="margin: 0px; padding: 0px; display: flex;">
-    <!--<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">-->
-    <!--<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">-->
-    <!--<img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">-->
+    <!--<img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+    <img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+    <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+    <img align="center" alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">-->
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img align="center" alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
-    <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-    <img align="center" alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img align="center" alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+    <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
 </div>
 
 <!--
@@ -55,7 +68,6 @@ Programs that I use for design:
 <div style="display: flex">
     <img align="center" alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
     <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 </br>
 .
@@ -81,9 +93,9 @@ Some of the projects that I'm working on:
 <center>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Interface-de-irrigacao&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Interface-de-irrigacao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=.NET-Exercises&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/.NET-Exercises)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=UnityGame&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/UnityGame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Mangabas-Kitchen&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Mangabas-Kitchen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Hello-Android&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Hello-Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=MusicutFM&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/MusicutFM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor-vd&repo=Pointing-Simulator&bg_color=00000000&theme=vision-friendly-dark&title_color=ffa600&icon_color=7438b7)](https://github.com/victor-vd/Pointing-Simulator)
 </br>
 
 </center>
